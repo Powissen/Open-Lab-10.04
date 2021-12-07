@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukas\\source\\repos\\Open-Lab-10.04\\Open-Lab-10.04\\Open-Lab-10.04.csproj",
+      "projectUniqueName": "C:\\Users\\lukas\\Source\\Repos\\Open-Lab-10.04.2\\Open-Lab-10.04\\Open-Lab-10.04\\Open-Lab-10.04.csproj",
       "projectName": "Open-Lab-10.04",
-      "projectPath": "C:\\Users\\lukas\\source\\repos\\Open-Lab-10.04\\Open-Lab-10.04\\Open-Lab-10.04.csproj",
+      "projectPath": "C:\\Users\\lukas\\Source\\Repos\\Open-Lab-10.04.2\\Open-Lab-10.04\\Open-Lab-10.04\\Open-Lab-10.04.csproj",
       "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukas\\source\\repos\\Open-Lab-10.04\\Open-Lab-10.04\\obj\\",
+      "outputPath": "C:\\Users\\lukas\\Source\\Repos\\Open-Lab-10.04.2\\Open-Lab-10.04\\Open-Lab-10.04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
